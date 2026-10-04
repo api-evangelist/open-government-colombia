@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Colombia
     description: "Colombia Government Open Data"
     humanURL: https://www.dane.gov.co/
-    baseURL: https://www.dane.gov.co/
     tags:
       - Government
     properties:
